@@ -32,7 +32,7 @@ Let's take a look at some of my GitHub stats:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musteryasm&layout=compact&theme=dark)
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=musteryasme&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=musteryasm&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with Me 🌐
 
