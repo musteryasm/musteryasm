@@ -1,6 +1,6 @@
 # Hi there, I'm Shivam Musterya 👋
 
-![Shivam Musterya](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+![Shivam Musterya](https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif)
 
 ## About Me
 
