@@ -1,18 +1,15 @@
 # Hi there, I'm Shivam Musterya 👋
 
-![Shivam Musterya](https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif)
+![Shivam Musterya](https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif)I'm Shivam Musterya, a Computer Science and Data Science student with a relentless curiosity for technology and a drive to turn ideas into code. My journey in the world of coding began with a fascination for algorithms and data structures, and it has since evolved into a passionate pursuit of creating web applications that make a difference. I'm on a mission to bridge the gap between data and insights while continually exploring new technologies and best practices.
 
 ## About Me
-
-I'm Shivam Musterya, a Computer Science and Data Science student with a relentless curiosity for technology and a drive to turn ideas into code. My journey in the world of coding began with a fascination for algorithms and data structures, and it has since evolved into a passionate pursuit of creating web applications that make a difference. I'm on a mission to bridge the gap between data and insights while continually exploring new technologies and best practices.
-
 👨‍💻 Always coding, always learning, and never settling for mediocrity.
 
 ### Languages and Tools 🛠 
 
 Here are some of the languages and tools I work with:
 
-![JS](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![JavaScript Version](https://img.shields.io/badge/JavaScript-ES6-blue)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
