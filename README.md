@@ -1,9 +1,9 @@
 # Hi there, I'm Shivam Musterya 👋
 
 ![Shivam Musterya](https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif)
-I'm Shivam Musterya, a Computer Science and Data Science student with a relentless curiosity for technology and a drive to turn ideas into code. My journey in the world of coding began with a fascination for algorithms and data structures, and it has since evolved into a passionate pursuit of creating web applications that make a difference. I'm on a mission to bridge the gap between data and insights while continually exploring new technologies and best practices.
 
 ## About Me
+I'm Shivam Musterya, a Computer Science and Data Science student with a relentless curiosity for technology and a drive to turn ideas into code. My journey in the world of coding began with a fascination for algorithms and data structures, and it has since evolved into a passionate pursuit of creating web applications that make a difference. I'm on a mission to bridge the gap between data and insights while continually exploring new technologies and best practices.
 👨‍💻 Always coding, always learning, and never settling for mediocrity.
 
 ### Languages and Tools 🛠 
