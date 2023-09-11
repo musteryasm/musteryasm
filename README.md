@@ -12,6 +12,7 @@ I'm Shivam Musterya, a Computer Science and Data Science student with a relentle
 
 Here are some of the languages and tools I work with:
 
+![JS](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
