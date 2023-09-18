@@ -1,15 +1,9 @@
-<img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" align ="left" alt="Shivam Musterya" width="300" height="300" />
+<img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" align ="center" alt="Shivam Musterya" width="300" height="300" />
 
 
-<p align = "right">I am Shivam Musterya, a dedicated Computer Science and Data Science student with an insatiable curiosity for technology and a relentless drive to transform ideas into elegant code. My journey in the realm of coding commenced with a deep fascination for algorithms and data structures, which has since evolved into a passionate endeavor to create impactful web applications. I am on a mission to bridge the chasm between data and insights while constantly exploring cutting-edge technologies and best practices. 👨‍💻 Always coding, always learning, and never settling for mediocrity </p>
+##About ME
+I am Shivam Musterya, a dedicated Computer Science and Data Science student with an insatiable curiosity for technology and a relentless drive to transform ideas into elegant code. My journey in the realm of coding commenced with a deep fascination for algorithms and data structures, which has since evolved into a passionate endeavor to create impactful web applications. I am on a mission to bridge the chasm between data and insights while constantly exploring cutting-edge technologies and best practices. 👨‍💻 Always coding, always learning, and never settling for mediocrity. 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 ### Languages and Tools 🛠
 
 Here are some of the languages and tools I proficiently work with:
