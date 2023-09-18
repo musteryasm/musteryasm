@@ -65,21 +65,5 @@ Let's connect and collaborate on exciting projects:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square)](https://your-portfolio-website.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style
 
-### GitHub Stats 📊
 
-Let's take a look at some of my GitHub stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musteryasm&show_icons=true&count_private=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musteryasm&layout=compact&theme=dark)
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=musteryasm&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-### Connect with Me 🌐
-
-Let's connect and collaborate on exciting projects:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivam-musterya-30a101264/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=flat-square)](https://your-portfolio-website.com)
-
-Feel free to reach out, and together, we can create amazing things! 🚀
+Feel free to reach out, and together, we can create amazing things together!!
