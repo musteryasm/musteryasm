@@ -1,12 +1,12 @@
-<img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" align ="center" alt="Shivam Musterya" width="300" height="300" />
+# 🚀 Welcome to My Awesome GitHub Profile 🚀
 
+![Shivam Musterya](https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif)
 
-### About ME  
-I am Shivam Musterya, a dedicated Computer Science and Data Science student with an insatiable curiosity for technology and a relentless drive to transform ideas into elegant code. My journey in the realm of coding commenced with a deep fascination for algorithms and data structures, which has since evolved into a passionate endeavor to create impactful web applications. I am on a mission to bridge the chasm between data and insights while constantly exploring cutting-edge technologies and best practices. 👨‍💻 Always coding, always learning and never settling for mediocrity. 
+Hey there, I'm **Shivam Musterya**, a dedicated and passionate Computer Science and Data Science student, on a relentless journey to turn ideas into elegant code and bridge the gap between data and insights. I'm always coding, always learning, and never settling for mediocrity. Let's dive into my world of tech wizardry! 👨‍💻
 
-### Languages and Tools 🛠
+## 🛠️ Languages and Tools 🛠️
 
-Here are some of the languages and tools I proficiently work with:
+Here's a sneak peek at the magic I wield:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-blue?logo=javascript)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
@@ -16,7 +16,6 @@ Here are some of the languages and tools I proficiently work with:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
@@ -46,7 +45,7 @@ Here are some of the languages and tools I proficiently work with:
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress)
 
-### GitHub Stats 📊
+## 📊 GitHub Stats 📊
 
 Let's take a look at some of my GitHub stats:
 
@@ -54,13 +53,12 @@ Let's take a look at some of my GitHub stats:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musteryasm&layout=compact&theme=dark)
 
-### Connect with Me 🌐
+## 🌐 Connect with Me 🌐
 
 Let's connect and collaborate on exciting projects:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivam-musterya-30a101264/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square)](https://your-portfolio-website.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square)](mailto:your-email@example.com)
 
-
-Feel free to reach out, and together, we can create amazing things together!!
+Feel free to reach out, and together, we can create amazing things together!! 🚀
