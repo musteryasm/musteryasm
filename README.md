@@ -1,4 +1,4 @@
-# 🚀 Welcome to My Awesome GitHub Profile 🚀
+# 🚀 Welcome to My GitHub Profile 🚀
 
 ![Shivam Musterya](https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif)
 
