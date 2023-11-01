@@ -7,7 +7,6 @@ Hey there, I'm **Shivam Musterya**, a dedicated and passionate Computer Science 
 ## 🛠️ Languages and Tools 🛠️
 
 Here's a sneak peek at the magic I wield:
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-blue?logo=javascript)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -44,14 +43,6 @@ Here's a sneak peek at the magic I wield:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress)
-
-## 📊 GitHub Stats 📊
-
-Let's take a look at some of my GitHub stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musteryasm&show_icons=true&count_private=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musteryasm&layout=compact&theme=dark)
 
 ## 🌐 Connect with Me 🌐
 
