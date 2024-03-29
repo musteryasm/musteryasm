@@ -33,5 +33,6 @@ Innerve 8.0 - Top 10 - Anamoly Detection
 D2K 2.0 - NLP Domain winner - FindME
 HackNiche 2. 0 - Participant - CodeSaathi
 Synergy 1.0 - Participant - Hunter.io
+ACE Hacks 1.0 - Winner - SmartBin
 
 
