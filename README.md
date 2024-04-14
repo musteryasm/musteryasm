@@ -34,5 +34,7 @@ D2K 2.0 - NLP Domain winner - FindME</br>
 HackNiche 2. 0 - Participant - CodeSaathi</br>
 Synergy 1.0 - Participant - Hunter.io</br>
 ACE Hacks 1.0 - Winner - SmartBin</br>
-CodeShastra X - Participant - RozGaar
+CodeShastra X - Participant - RozGaar</br>
+DEVOPIA - Winner - Shiksha
+
 
