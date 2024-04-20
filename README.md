@@ -36,5 +36,6 @@ Synergy 1.0 - Participant - Hunter.io</br>
 ACE Hacks 1.0 - Winner - SmartBin</br>
 CodeShastra X - Participant - RozGaar</br>
 DEVOPIA - Winner - Shiksha
+Logithon - Winner - Dynamo
 
 
