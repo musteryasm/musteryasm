@@ -35,7 +35,7 @@ HackNiche 2. 0 - Participant - CodeSaathi</br>
 Synergy 1.0 - Participant - Hunter.io</br>
 ACE Hacks 1.0 - Winner - SmartBin</br>
 CodeShastra X - Participant - RozGaar</br>
-DEVOPIA - Winner - Shiksha
-Logithon - Winner - Dynamo
+DEVOPIA - Winner - Shiksha <br>
+Logithon - Winner - Dynamo <br>
 
 
