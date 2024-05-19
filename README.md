@@ -23,12 +23,12 @@ DataHack 1.0 - Participant  - Market Basket Analysis </br>
 UHackathon - Participant - Friend Next Door  </br>
 Need for Code 2.0 - Participant - NewsRakshak </br>
 HackMania - 2nd Runner Up - LingoAssist</br>
-CodeIcon 4.0 - 4th place - OpenCV Projects</br>
+CodeIcon 4.0 - 3rd Runner Up - OpenCV Projects</br>
 BreachBytes - 1st Place - CTF</br>
 IISF Space Hackathon - Participant - BhugolBaz </br>
 HERE Hackathon IIT Bombay - 2nd - Ecosense</br>
 Tech Future Hackathon - 7th - IIDS</br>
-PEC Hacks - 4th place - Leveline</br>
+PEC Hacks - 3rd Runner Up - Leveline</br>
 Innerve 8.0 - Top 10 - Anamoly Detection</br>
 D2K 2.0 - NLP Domain winner - FindME</br>
 HackNiche 2. 0 - Participant - CodeSaathi</br>
