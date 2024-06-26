@@ -37,5 +37,6 @@ ACE Hacks 1.0 - Winner - SmartBin</br>
 CodeShastra X - Participant - RozGaar</br>
 DEVOPIA - Winner - Shiksha <br>
 Logithon - Winner - Dynamo <br>
+KSP Datathon - Top 3 - Crime Analytics Dashboard <br>
 
 
