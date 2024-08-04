@@ -1,4 +1,4 @@
-![Shivam Musterya](https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif)
+![Shivam Musterya]
 
 Hey there, I'm **Shivam Musterya**, a dedicated and passionate Computer Science and Data Science student, on a relentless journey to turn ideas into elegant code and bridge the gap between data and insights. I'm always coding, always learning, and never settling for mediocrity. Let's dive into my world of tech wizardry! 👨‍💻
 
