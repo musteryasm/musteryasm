@@ -36,5 +36,5 @@ CodeShastra X - Participant - RozGaar</br>
 DEVOPIA - Winner - Shiksha <br>
 Logithon - Winner - Dynamo <br>
 KSP Datathon - Top 3 - Crime Analytics Dashboard <br>
-
+Bajaj Hackrx 5.0 - Winner - Legal AI Analytics and Alarm System <br>
 
