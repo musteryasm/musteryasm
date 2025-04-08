@@ -39,5 +39,5 @@ KSP Datathon - Top 3 - Crime Analytics Dashboard <br>
 Bajaj Hackrx 5.0 - Winner - Legal AI Analytics and Alarm System <br>
 LOC 7.0 - Participant - HopeInit <br>
 PSB's Hackathon UBI - Runner Up - UWA <br>
-
+Codeshastra 11 - 2nd Runner Up - audit0 <br>
 
